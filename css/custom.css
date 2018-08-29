@@ -1,0 +1,69 @@
+/*===========================================*/
+/*	GENERAL
+/*===========================================*/
+
+a.disabled {
+    color: rgba( 255 , 255 , 255 , 0.4 );
+    border-color: rgba( 255 , 255 , 255 , 0.4 );
+}
+
+.home-buttons {
+    margin: 5px !important;
+    min-width: 140px; 
+}
+
+.about-image {
+    margin-bottom: 20px;
+}
+
+
+
+
+
+/*===========================================*/
+/*	DESKTOP LAYOUT 
+/*===========================================*/
+
+
+@media (min-width: 1200px) {
+	
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+
+@media (min-width: 992px) {
+		
+}
+
+/*===========================================*/
+/*	MOBILE & TABLET COMMON
+/*===========================================*/
+@media (min-width: 200px) and (max-width: 991px) {
+	
+}
+
+
+/*===========================================*/
+/*	TABLET
+/*===========================================*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+
+/*===========================================*/
+/*	MOBILE
+/*===========================================*/
+@media (min-width: 200px) and (max-width: 767px) {
+	
+}
+@media (min-width: 600px) and (max-width: 767px) {
+}
+@media (min-width: 480px) and (max-width: 599px) {
+
+}
+@media (min-width: 200px) and (max-width: 479px) {
+
+}
