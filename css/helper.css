@@ -906,20 +906,20 @@ section.no-border,
   color: #6cbc35;
 }
 .btn-color4 {
-  border-color: #fd9f3e;
-  color: #fd9f3e;
+  border-color: #0c5587; /*#1e75bb;*/
+  color: #0c5587;
 }
 .btn-color4:hover,
 .btn-color4:focus,
 .btn-color4:active,
 .btn-color4.active {
-  background-color: #fd9f3e;
-  border-color: #fd9f3e;
+  background-color: #1e75bb;
+  border-color: #1e75bb;
   color: #ffffff;
 }
 .solid.btn-color4 {
-  background-color: #fd9f3e;
-  border-color: #fd9f3e;
+  background-color: #1e75bb;
+  border-color: #1e75bb;
   color: #ffffff;
 }
 .solid.btn-color4:hover,
@@ -927,8 +927,8 @@ section.no-border,
 .solid.btn-color4:active,
 .solid.btn-color4.active {
   background-color: transparent;
-  border-color: #fd9f3e;
-  color: #fd9f3e;
+  border-color: #1e75bb;
+  color: #1e75bb;
 }
 .btn-color5 {
   border-color: #a5c9ee;
@@ -1590,7 +1590,7 @@ h6.bdr-b {
 .txt-color4,
 .typo-light .txt-color4,
 .txt-color4:hover {
-  color: #fd9f3e;
+  color: #0c5587;
 }
 .active.txt-color5,
 .txt-color5,
@@ -1646,7 +1646,7 @@ h6.bdr-b {
   color: #6cbc35;
 }
 .hov-txt-color4:hover {
-  color: #fd9f3e;
+  color: #1e75bb;
 }
 .hov-txt-color5:hover {
   color: #a5c9ee;
@@ -1705,7 +1705,7 @@ a.link-color3 {
 }
 .link-color4,
 a.link-color4 {
-  color: #fd9f3e;
+  color: #1e75bb;
 }
 .link-color5,
 a.link-color5 {
@@ -2089,7 +2089,7 @@ textarea.form-control {
 }
 .active.bg-color4,
 .bg-color4 {
-  background-color: #fd9f3e;
+  background-color: #1e75bb;
 }
 .active.bg-color5,
 .bg-color5 {
@@ -2139,7 +2139,7 @@ textarea.form-control {
   background-color: #6cbc35;
 }
 .hov-bg-color4:hover {
-  background-color: #fd9f3e;
+  background-color: #1e75bb;
 }
 .hov-bg-color5:hover {
   background-color: #a5c9ee;
@@ -2819,7 +2819,7 @@ textarea.form-control {
 .bdr-color4.row-sep > [class*="flex-col-"],
 .bdr-color4.form-control,
 .bdr-color4 {
-  border-color: #fd9f3e;
+  border-color: #1e75bb;
 }
 .active.bdr-color5,
 .bdr-color5,
@@ -2956,7 +2956,7 @@ textarea.form-control {
 .hov-bdr-color4:hover.form-control,
 .hov-bdr-color4:focus.form-control,
 .hov-bdr-color4:hover {
-  border-color: #fd9f3e;
+  border-color: #1e75bb;
 }
 .hov-bdr-color5:hover,
 .hov-bdr-color5:hover.row-bdr,
